@@ -1,7 +1,4 @@
-# portafolio
-Jueves 11 de octubre, 2018
 
-<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
